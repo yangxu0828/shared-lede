@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 下载源码
-git clone --single-branch -b openwrt-21.02 https://github.com/immortalwrt/immortalwrt.git
+git clone --single-branch -b openwrt-21.02 https://github.com/yangxu0828/immortalwrt.git
 mv ./immortalwrt/* ./
 
 # 下载插件

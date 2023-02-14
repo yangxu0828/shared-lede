@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 下载源码
-git clone https://github.com/yangxu0828/immortalwrt
+git clone https://github.com/yangxu0828/immortalwrt-rm-ac2100
 mv ./immortalwrt/* ./
 
 # 下载插件
